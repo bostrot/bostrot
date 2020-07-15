@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Eric, an enthusiastic Software Developer from Aachen - Germany.
+
+I mostly work with NodeJS, Flutter and Docker.
+
 <!--
 **bostrot/bostrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
