@@ -4,6 +4,7 @@ I am Eric, an enthusiastic Software Developer from Aachen - Germany.
 
 I mostly work with NodeJS, Flutter and Docker.
 
+![Bostrot's github stats](https://github-readme-stats.vercel.app/api?username=bostrot&count_private=true)
 <!--
 **bostrot/bostrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
   <a><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="70"></img></a>
   <a><img src="https://duckduckgo.com/i/2474f7d4.png" height="70"></img></a>
 </p>
+
 
 ### 📫 How to reach me
 
