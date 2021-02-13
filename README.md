@@ -38,9 +38,5 @@ Here are some ideas to get you started:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/erictrenkel/) 👤
 - Write me an [Email](mailto:github@bostrot.com) ✉️
 - Visit my [Blog](https://senpai.club) 🗒
-- Checkout my [Patreon](https://www.patreon.com/erictrenkel) 🍩
 - Join my [Discord](https://discord.gg/fZvGq3D) 🎲
-
--- OR --
-
 - Contact me with [Telegram](http://t.me/bostrot_bot) 🤖
