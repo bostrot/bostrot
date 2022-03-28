@@ -1,3 +1,6 @@
+![Screenshot 2022-03-28 074228](https://user-images.githubusercontent.com/7342321/160333721-70753bbf-c8b1-403b-8425-0597f21e5047.png)
+
+
 ### Hi there 👋
 
 I am Eric, an enthusiastic Software Developer from Aachen - Germany.
