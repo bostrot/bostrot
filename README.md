@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="70"></img></a>
   <a><img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" height="70"></img></a>
   <a><img src="https://duckduckgo.com/i/39ece087.png" height="70"></img></a>
-  <a><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="70"></img></a>
+  <a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="70"></img></a>
   <a><img src="https://duckduckgo.com/i/2474f7d4.png" height="70"></img></a>
 </p>
 
