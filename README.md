@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-- Visit my [Website](https://bostrot.com) 🌐
+- Visit my [Website](https://erictrenkel.com) 🌐
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/erictrenkel/) 👤
 - Write me an [Email](mailto:github@bostrot.com) ✉️
 - Visit my [Blog](https://senpai.club) 🗒
-- Join my [Discord](https://discord.gg/fZvGq3D) 🎲
 - Contact me with [Telegram](http://t.me/bostrot_bot) 🤖
