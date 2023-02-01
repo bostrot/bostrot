@@ -1,39 +1,26 @@
-![Screenshot 2022-03-28 074228](https://user-images.githubusercontent.com/7342321/160333721-70753bbf-c8b1-403b-8425-0597f21e5047.png)
-
 
 ### Hi there 👋
 
 I am Eric, an enthusiastic Software Developer from Aachen - Germany.
 
-I mostly work with NodeJS, Flutter and Docker.
+### 📖 Languages
 
-![Bostrot's github stats](https://github-readme-stats.vercel.app/api?username=bostrot&count_private=true)
-<!--
-**bostrot/bostrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 📖 Knowledge
+... and stuff I made with them (or contributed large portions).
 
 <!--![node](https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen)-->
 
-<p float="left">
-  <a><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="70"></img></a>
-  <a><img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" height="70"></img></a>
-  <a><img src="https://duckduckgo.com/i/39ece087.png" height="70"></img></a>
-  <a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="70"></img></a>
-  <a><img src="https://duckduckgo.com/i/2474f7d4.png" height="70"></img></a>
-</p>
 
+- 💻 NodeJS         ([telegram-support-bot](https://github.com/bostrot/telegram-support-bot))
+- 🚀 TypeScript     ([telegram-support-bot](https://github.com/bostrot/telegram-support-bot))
+- 🐳 Docker         ([erics-conntainer-repo](https://github.com/bostrot/erics-container-repo))
+- 🤔 Prolog         (tba)
+- 💬 Flutter        ([wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager))
+- 🎯 Dart           ([chunked_downloader](https://github.com/bostrot/chunked_downloader))
+- 🦀 Rust           ([monitutor_client](https://github.com/bostrot/MoniTutor-docker))
+- 💾 Bash           ([fake-sysemd-fork](https://github.com/bostrot/fake-systemd))
+- 🖥️ HTML/CSS       ([portfolio](https://github.com/bostrot/portfolio))
+- ⚙️ C++            ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
+- 🔨 C#             ([Touchless-Desktop-Controller](https://github.com/bostrot/Touchless-Desktop-Controller))
 
 ### 📫 How to reach me
 
