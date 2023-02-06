@@ -17,7 +17,7 @@ I am Eric, an enthusiastic Software Developer from Aachen - Germany.
 - 💬 Flutter        ([wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager))
 - 🎯 Dart           ([chunked_downloader](https://github.com/bostrot/chunked_downloader))
 - 🦀 Rust           ([monitutor_client](https://github.com/bostrot/MoniTutor-docker))
-- 💾 Bash           ([fake-sysemd-fork](https://github.com/bostrot/fake-systemd))
+- 💾 Bash           ([fake-systemd-fork](https://github.com/bostrot/fake-systemd))
 - 🖥️ HTML/CSS       ([portfolio](https://github.com/bostrot/portfolio))
 - ⚙️ C++            ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
 - 🔨 C#             ([Touchless-Desktop-Controller](https://github.com/bostrot/Touchless-Desktop-Controller))
