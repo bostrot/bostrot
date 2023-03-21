@@ -17,7 +17,7 @@ I am Eric, an enthusiastic Software Developer from Aachen - Germany.
 - 💾 Bash           ([fake-systemd-fork](https://github.com/bostrot/fake-systemd))
 - 🖥️ HTML/CSS       ([portfolio](https://github.com/bostrot/portfolio))
 - ⚙️ C++            ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
-- 🔨 C#             ([Touchless-Desktop-Controller](https://github.com/bostrot/Touchless-Desktop-Controller))
+- 🔨 C#             ([PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget))
 
 ### 🔮 Stack:
 
