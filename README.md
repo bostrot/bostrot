@@ -16,7 +16,7 @@ I am Eric, an enthusiastic Software Developer from Aachen - Germany.
 - 🦀 Rust           ([monitutor_client](https://github.com/bostrot/MoniTutor-docker))
 - 💾 Bash           ([fake-systemd-fork](https://github.com/bostrot/fake-systemd))
 - 🖥️ HTML/CSS       ([portfolio](https://github.com/bostrot/portfolio))
-- ⚙️ C++            ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
+- ⚙️ C              ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
 - 🔨 C#             ([PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget))
 
 ### 🔮 Stack:
