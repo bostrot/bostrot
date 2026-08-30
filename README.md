@@ -1,73 +1,36 @@
+# Hi, I'm Eric 👋
 
-### Hi there 👋
+**Senior Software Engineer & IT Consultant** from Cologne, Germany — software
+architecture, system integration & technical leadership by day, founder of
+[Bostrot](https://bostrot.com) developer tools by night.
 
-I am Eric, an enthusiastic Software Developer from Aachen - Germany.
+- 🏗️ Tech lead on carrier & transport-management integrations (Java, Kotlin, Spring Boot, Kafka)
+- 🛠️ Building open-source developer tools since 2016 — **200,000+ downloads**, 5,000+ stars
+- ✍️ Occasional technical writing at [senpai.club](https://senpai.club)
 
-### 📖 Languages
+## Featured projects
 
-... and stuff I made with them (or contributed large portions).
+| Project | What it is | Numbers |
+| --- | --- | --- |
+| [WSL Manager](https://github.com/bostrot/wsl2-distro-manager) | Flutter GUI for WSL2 — Microsoft Store, Winget, Scoop, Chocolatey. Built-in MCP server for AI agents, SSH remote management, Docker images as distros. | ⭐ 3.9k · ⬇️ 154k · 62 releases |
+| [Telegram & Signal Support Bot](https://github.com/bostrot/telegram-support-bot) | TypeScript ticketing system with optional LLM auto-responses. Also runs as a hosted service. | ⭐ 610 · 🐳 5.5k pulls |
+| [PowerToys Run Winget Plugin](https://github.com/bostrot/PowerToysRunPluginWinget) | C# plugin — search & install winget packages straight from PowerToys Run. | ⭐ 335 · ⬇️ 12k |
 
-- 💻 NodeJS         ([telegram-support-bot](https://github.com/bostrot/telegram-support-bot))
-- 🚀 TypeScript     ([telegram-support-bot](https://github.com/bostrot/telegram-support-bot))
-- 🐳 Docker         ([erics-conntainer-repo](https://github.com/bostrot/erics-container-repo))
-- 🤔 Prolog         (tba)
-- 💬 Flutter        ([wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager))
-- 🎯 Dart           ([chunked_downloader](https://github.com/bostrot/chunked_downloader))
-- 🦀 Rust           ([monitutor_client](https://github.com/bostrot/MoniTutor-docker))
-- 💾 Bash           ([fake-systemd-fork](https://github.com/bostrot/fake-systemd))
-- 🖥️ HTML/CSS       ([portfolio](https://github.com/bostrot/portfolio))
-- ⚙️ C              ([Connected-Roads](https://github.com/IP-VS/Connected-Roads))
-- 🔨 C#             ([PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget))
+Plus [Dart/Flutter packages on pub.dev](https://pub.dev/publishers/bostrot.com/packages)
+(~2k downloads/month) and [Docker images](https://hub.docker.com/u/bostrot) with 41k+ pulls.
 
-### 🔮 Stack:
+## Stack
 
-#### Languages
+`Java` `Kotlin` `Spring Boot` `Apache Kafka` `PL/SQL` `EDI` `S3` ·
+`Dart/Flutter` `TypeScript` `Rust` `C#` ·
+`Docker` `GitHub Actions` `CI/CD`
 
-![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&style=for-the-badge&color=1f1e34&label=%20)
-![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&style=for-the-badge&color=1f1e34&label=%20)
-![C#](https://img.shields.io/static/v1?message=C%23&logo=c-sharp&style=for-the-badge&color=1f1e34&label=%20)
-![C++](https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&style=for-the-badge&color=1f1e34&label=%20)
-![Rust](https://img.shields.io/static/v1?message=Rust&logo=rust&style=for-the-badge&color=1f1e34&label=%20)
-![Prolog](https://img.shields.io/static/v1?message=Prolog&logo=prolog&style=for-the-badge&color=1f1e34&label=%20)
+## Reach me
 
-#### Testing and code styling
+🌐 [erictrenkel.com](https://erictrenkel.com) ·
+🏢 [bostrot.com](https://bostrot.com) ·
+💼 [LinkedIn](https://linkedin.com/in/erictrenkel) ·
+💬 [Stack Overflow](https://stackoverflow.com/users/5237072/bostrot) ·
+✉️ [eric@bostrot.com](mailto:eric@bostrot.com)
 
-![Eslint](https://img.shields.io/static/v1?message=Eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20)
-![SonarQube](https://img.shields.io/static/v1?message=SonarQube&logo=sonarqube&style=for-the-badge&color=1f1e34&label=%20)
-![Selenium](https://img.shields.io/static/v1?message=Selenium&logo=selenium&style=for-the-badge&color=1f1e34&label=%20)
-
-#### CI/CD
-
-![Jenkins](https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&style=for-the-badge&color=1f1e34&label=%20)
-![Github Actions](https://img.shields.io/static/v1?message=Github%20Actions&logo=github-actions&style=for-the-badge&color=1f1e34&label=%20)
-![GitLab CI](https://img.shields.io/static/v1?message=GitLab%20CI&logo=gitlab&style=for-the-badge&color=1f1e34&label=%20)
-
-#### VCS, Server and Containerization
-
-![Git](https://img.shields.io/static/v1?message=Git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
-![Proxmox](https://img.shields.io/static/v1?message=Proxmox&logo=proxmox&style=for-the-badge&color=1f1e34&label=%20)
-![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
-![NodeJS](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
-
-#### Scripting
-
-![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
-![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
-![Python3](https://img.shields.io/static/v1?message=python&logo=python&style=for-the-badge&color=1f1e34&label=%20)
-![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&style=for-the-badge&color=1f1e34&label=%20)
-![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
-
-#### Shell
-
-![Bash](https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&style=for-the-badge&color=1f1e34&label=%20)
-![PowerShell](https://img.shields.io/static/v1?message=PowerShell&logo=powershell&style=for-the-badge&color=1f1e34&label=%20)
-
-### 📫 How to reach me
-
-- Visit my [Website](https://erictrenkel.com) 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/erictrenkel/) 👤
-- Write me an [Email](mailto:github@bostrot.com) ✉️
-- Visit my [Blog](https://senpai.club) 🗒
-- Contact me with [Telegram](http://t.me/bostrot_bot) 🤖
-
-[![👀](https://api.visitorbadge.io/api/visitors?path=bostrot&label=👀&labelColor=%231f1e34&countColor=%231f1e34&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=bostrot)
+<sub>Stats as of August 2026 — live versions on [erictrenkel.com](https://erictrenkel.com), refreshed daily by CI.</sub>
